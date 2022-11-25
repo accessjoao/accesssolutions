@@ -69,7 +69,7 @@ export const stats = [{
     {
         id: "stats-2",
         title: "Trusted by Company",
-        value: "230+",
+        value: "747+",
     },
     {
         id: "stats-3",
