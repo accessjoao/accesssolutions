@@ -22,7 +22,7 @@ export const features = [{
         id: "feature-1",
         icon: star,
         title: "Rewards",
-        content: "The best credit cards offer some tantalizing combinations of promotions and prizes",
+        content: "The most active users are offered some tantalizing combinations of promotions and prizes",
     },
     {
         id: "feature-2",
@@ -33,8 +33,8 @@ export const features = [{
     {
         id: "feature-3",
         icon: send,
-        title: "Balance Transfer",
-        content: "A balance transfer credit card can save you a lot of money in interest charges.",
+        title: "Cloud Solutions",
+        content: "No need to buy, provision, or manage local data storage for your backups.",
     },
 ];
 
@@ -63,7 +63,7 @@ export const feedback = [{
 
 export const stats = [{
         id: "stats-1",
-        title: "User Active",
+        title: "Users Active",
         value: "3800+",
     },
     {
@@ -73,7 +73,7 @@ export const stats = [{
     },
     {
         id: "stats-3",
-        title: "Transaction",
+        title: "Transactions",
         value: "$230M+",
     },
 ];
