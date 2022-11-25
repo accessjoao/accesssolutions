@@ -1,7 +1,6 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
-import Stats from "./Stats";
 
 const Hero = () => 
   (
@@ -26,7 +25,7 @@ const Hero = () =>
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Front End Access</h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Access experts use a methodology to identify the technology most likely to fit your needs. We examine the tech stack, business style, and goals.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Access experts use a methodology to identify the technology most likely to fit your needs. We examine the business style and tech stack to achieve your goals.</p>
 
       </div>
 {/**Robot arm picture **/}
@@ -40,7 +39,6 @@ const Hero = () =>
       <div className={`ss:hidden ${styles.flexCenter}`}>
         <GetStarted />
       </div>
-      <Stats />
     </section>
   )
 
