@@ -5,7 +5,7 @@ const Footer = () => (
   <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
     <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
       <div className="flex-[1] flex flex-col justify-start mr-10">
-      <h1 className="flex-1 font-poppins font-semibold ss:text-[40px] text-[40px] text-white ss:leading-[20px] leading-[20px]">
+      <h1 className="flex-1 font-poppins font-semibold ss:text-[30px] text-[30px] text-white ss:leading-[20px] leading-[20px]">
             Access{" "}
             <span className="text-gradient">Solutions</span>
           </h1>
