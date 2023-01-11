@@ -10,7 +10,7 @@ Javascript, React, Tailwindcss
 
 #
 
-<img src="https://i.ibb.co/GCwcbmd/accesss.png" width="1688" height="914">
+![screenshot](https://i.ibb.co/GCwcbmd/accesss.png)
 
 # Deployment: 
 
